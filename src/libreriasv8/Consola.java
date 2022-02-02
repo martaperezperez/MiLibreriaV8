@@ -20,5 +20,7 @@ public class Consola implements InterfaceMetodosComunes {
     @Override
     public void visualiza(){
         System.out.println("Sale por la consola " + msg);
+        
+        //Comentrio para clase
     }
 }
