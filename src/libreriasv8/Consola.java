@@ -28,5 +28,10 @@ public class Consola implements InterfaceMetodosComunes {
         
         //Comentrio para clase
     }
+
+
+    //Cambio en la clase Consola en la otra rama
+
     //CHIMICHANGAS
+
 }
