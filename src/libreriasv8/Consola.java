@@ -4,6 +4,7 @@ package libreriasv8;
  * Esta clase es un producto
  */
 public class Consola implements InterfaceMetodosComunes {
+
     private String msg;
     //modificacion nuria
 
@@ -27,4 +28,5 @@ public class Consola implements InterfaceMetodosComunes {
         
         //Comentrio para clase
     }
+    //CHIMICHANGAS
 }
